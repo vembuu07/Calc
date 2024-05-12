@@ -135,8 +135,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![WhatsApp Image 2024-05-12 at 23 45 58_2a58c11e](https://github.com/vembuu07/Calc/assets/150772461/439d6739-b999-45f9-a354-68828c529b1a)
 
-![WhatsApp Image 2024-05-12 at 23 45 58_d1fa0591](https://github.com/vembuu07/Calc/assets/150772461/df0d3f23-89fc-46dd-be39-f7de9ec99bba)
-
+![WhatsApp Image 2024-05-12 at 23 54 16_078abc38](https://github.com/vembuu07/Calc/assets/150772461/b1e54681-e464-486b-bccf-2231c2bb7d10)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
